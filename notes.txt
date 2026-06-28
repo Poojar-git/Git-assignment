@@ -5,3 +5,4 @@ Basic Navigation and File Commands
 •	Move into folder: cd foldername
 •	Create file: touch filename
 •	Delete file: rm filename.txt
+These commands are the used file commands.
