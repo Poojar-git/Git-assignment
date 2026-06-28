@@ -1,4 +1,4 @@
-Git is a version control tool.
+Github is cloud based hosting platform while git is a version control tool.
 Basic Navigation and File Commands
 •	Check current working directory: pwd
 •	List files: ls
