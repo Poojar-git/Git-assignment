@@ -1,0 +1,7 @@
+Basic Navigation and File Commands
+•	Check current working directory: pwd
+•	List files: ls
+•	Create folder: mkdir foldername
+•	Move into folder: cd foldername
+•	Create file: touch filename
+•	Delete file: rm filename.txt
