@@ -3,3 +3,4 @@ Handling merge conflicts.
 •	Git gets confused which changes to save, so then developer must manually choose the correct code.
 •	Why do merge conflict occur: When you try to merge two branches that have edited same part of the code.
 • Merge conflicts happen when the same section of a file is edited differently in separate branches before merging.
+• Developers should carefully review conflicting changes before completing the merge.
