@@ -6,3 +6,19 @@ Basic Navigation and File Commands
 •	Create file: touch filename
 •	Delete file: rm filename.txt
 These commands are the used file commands.
+Steps to start with git:
+1. Create a project folder.
+2. Navigate to the project folder.
+3. Initialize Git repository.
+4. Check the repository status.
+5. Create project files.
+6. Check the status again.
+7. Stage the files.
+8. Verify staged files.
+9. Commit the changes.
+10. View commit history.
+11. Create a GitHub repository.
+12. Connect local repository to GitHub.
+13. Rename the default branch to main (if required).
+14. Push the repository to GitHub.
+15. Verify the repository on GitHub.
