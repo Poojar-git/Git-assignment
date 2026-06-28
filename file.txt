@@ -5,3 +5,4 @@ Handling merge conflicts.
 • Merge conflicts happen when the same section of a file is edited differently in separate branches before merging.
 • Developers should carefully review conflicting changes before completing the merge.
 • Git marks merge conflicts using special conflict markers to help developers identify conflicting changes.
+
