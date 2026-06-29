@@ -1,0 +1,10 @@
+2. Basic Command Line Skills
+2.1 Command Line Interface (CLI)
+•	A text-based interface used to interact with the os through terminal.
+2.2 Basic Navigation and File Commands
+•	Check current working directory: pwd
+•	List files: ls
+•	Create folder: mkdir foldername
+•	Move into folder: cd foldername
+•	Create file: Touch filename
+•	Delete file: rm filename.txt
