@@ -1,1 +1,28 @@
-Q5
+1.	Repository:
+1.1.	What is a Repository?
+•	A repository (repo) is a storage location for project files and Git history.
+•	Contains source code, commits, branches, and version history
+            1.2.Initialize a Repository
+•	Create a Git repository: git init
+•	Check repository status: git status
+2.	Committing Changes:
+2.1 Git add: Moves changes from working directory to staging area.
+•	Command: git add filename or git add .
+2.2 Git Commit: Saves staged changes permanently in local repositories.
+•	Command: git commit -m “message”
+2.3 Commit messages: Message should be in detail about what changes you have made
+Git workflow:
+Working directory->  git add -> Staging area -> git commit -> local repository
+3.	Branching and Merging
+3.1 What is branch?
+•	A Git branch is a safe, parallel workspace used to develop features without affecting the main code.
+•	View branch: git branch
+3.2 Create Branches
+•	Create a branch: git branch branch_name
+•	Create and switch:  git switch -c branch_name or git checkout -b branch_name
+•	Switch branch: git switch branch_name or git checkout branch_name
+3.3 Merge Changes into Main Branch
+•	Merging in git refers to combining the commit history and changes of two differ branches into one branch.
+•	Switch to main branch: git switch main
+•	Merge branch: git merge branch_name
+•	Delete merged branch: git branch -d branch_name
