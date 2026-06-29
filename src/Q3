@@ -1,10 +1,1 @@
-2. Basic Command Line Skills
-2.1 Command Line Interface (CLI)
-•	A text-based interface used to interact with the os through terminal.
-2.2 Basic Navigation and File Commands
-•	Check current working directory: pwd
-•	List files: ls
-•	Create folder: mkdir foldername
-•	Move into folder: cd foldername
-•	Create file: Touch filename
-•	Delete file: rm filename.txt
+A developer creates a feature branch, makes changes, commits and pushes them, then opens a Pull Request; if another developer modifies the same file on the main branch and pushes those changes, the Pull Request will have a merge conflict, which can be resolved by rebasing the feature branch onto the latest main, manually fixing any conflicts, continuing the rebase, and force-pushing the updated feature branch before merging the Pull Request.
